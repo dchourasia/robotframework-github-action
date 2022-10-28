@@ -1,4 +1,4 @@
-name: 'Robot Framework Action'
+name: 'Robot Framework Generic Action'
 description: 'Run Automate test with Robot Framework on Github Action'
 branding: 
   color: 'green'
